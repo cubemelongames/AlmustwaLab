@@ -150,5 +150,14 @@
 <item>فرع الشركة العامة للتعهدات وللتجارة</item>
 <item>بن دلامة</item>
          </string-array>
+         <string-array name="users">
+<item>kareem::11223Al</item>
+<item>badawi::123Qwerty</item>
+<item>abdellah::123Almustwa</item>
+<item>abdelrahmanhabib::147Al</item>
+<item>abdelrahmanabdelbasit::123Al</item>
+<item>aymankhatab::123Qwe</item>
+		</string-array>
+
 </resources>
     
