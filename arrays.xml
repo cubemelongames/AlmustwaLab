@@ -26,6 +26,14 @@
         <item>اختبار انعكاسية</item>
         <item>اختبار السماكة</item>
     </string-array>
+    <string-array name="asphaltSamp_options">
+        <item>BBC-A</item>
+    	<item>BBC-B</item>
+    	<item>BBC-C</item>
+        <item>BWC-A</item>
+    	<item>BWC-B</item>
+    	<item>BWC-C</item>
+    </string-array>
      <string-array name="contnames">
         <item></item>
  <item>استدامة نجد</item>
