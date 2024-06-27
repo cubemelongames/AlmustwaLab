@@ -158,18 +158,21 @@
 <item>فرع الشركة العامة للتعهدات وللتجارة</item>
 <item>بن دلامة</item>
          </string-array>
-         <string-array name="users">
-<item>kareem::1122Al</item>
-<item>badawi::123Qwerty</item>
-<item>abdellah::123Almustwa</item>
-<item>abdelrahmanhabib::147Al</item>
-<item>abdelrahmanabdelbasit::123Al</item>
-<item>arahmanabasit::123Qwe</item>
-<item>ahafiz::123asd</item>
-<item>mawad::123awad</item>
-<item>mfathi::123fff</item>
-<item>yosefzaki::123yyzz</item>
-<item>ahabib::123bbb</item>
+<string-array name="users">
+	<item>kareemahmad::2aww</item>
+	<item>abdelrahmanabdelbasit::iws7</item>
+	<item>asadnasr::2n36</item>
+	<item>syedfaiq::h85z</item>
+	<item>mohammadhussien::0wk0</item>
+	<item>abdelshakoorabdelhaq::eui9</item>
+	<item>abdelrahmanhabib::lm9m</item>
+	<item>aymankhatab::p9oa</item>
+	<item>yosefzaki::v9hw</item>
+	<item>mohamedfathi::jso8</item>
+	<item>mohamedabdallah::j7dv</item>
+	<item>abdelhafizaloni::38fr</item>
+	<item>mohammadawad::lab4</item>
+	<item>abouobidah::40lf</item>
 </string-array>
 
 </resources>
